@@ -134,3 +134,51 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY org.eclipse.ui 2 2 2021-04-03 21:09:35.232
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-04-03 21:09:45.229
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-04-03 21:09:45.233
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7ea8ea17[org.springframework.tooling.boot.ls:1.25.0.202103111026(id=478)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-04-03 21:09:45.241
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-04-03 21:09:45.329
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-04-03 21:09:49.226
+!MESSAGE Boot LS startup time from start to initialized: 3972ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-04-03 21:09:49.382
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.XLgrKBiyisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-04-03 21:09:49.388
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-04-03 21:09:49.392
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-04-03 21:09:49.395
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-04-03 21:09:49.397
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-04-03 21:09:49.400
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.XLgrKBiy => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-04-03 21:09:49.402
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-04-03 21:09:49.406
+!MESSAGE buffering callback sts4.classpath.XLgrKBiy EclipseTest false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-04-03 21:09:49.409
+!MESSAGE executing callback sts4.classpath.XLgrKBiy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-04-03 21:09:49.834
+!MESSAGE executing callback sts4.classpath.XLgrKBiy SUCCESS [done]
